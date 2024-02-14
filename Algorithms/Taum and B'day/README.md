@@ -1,0 +1,5 @@
+Entrada
+
+```bash
+Ctrl+d
+```
